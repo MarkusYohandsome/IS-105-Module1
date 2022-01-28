@@ -1,5 +1,5 @@
-module github.com/MarkusYohandsome/IS-105-Module1
-
+module
+github.com/MarkusYohandsome/IS-105-Module1
 go 1.17
 
 require rsc.io/quote v1.5.2
